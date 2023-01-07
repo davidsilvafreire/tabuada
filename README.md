@@ -1,1 +1,1 @@
-# tabuada
+# gerador de tabuada javascript
